@@ -13,7 +13,7 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(66, 228, 66);
+  background-color: rgb(97, 173, 97);
   color: #212121;
   line-height: 1.5;
 }
@@ -24,9 +24,9 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
   transition: width 0.4s ease-in-out;
-  box-shadow: 1px 1px 1px 1px rgb(5, 5, 165);
+  box-shadow: 1px 1px 1px 1px rgb(58, 85, 14);
   border: 0px;
-  border-radius: 20px;
+  border-radius: 15px;
 
 }
 

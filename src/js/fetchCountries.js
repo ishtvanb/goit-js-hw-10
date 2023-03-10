@@ -8,9 +8,6 @@ return fetch(`https://restcountries.com/v3.1/name/${name}?fields=name,capital,po
             }
             throw new Error(response.status);
         }
-        return response.json();
-    })
-    .catch(error => {
-        console.log(error);
+        return response.json();    
     });
 };
